@@ -1,0 +1,3 @@
+spot	nb_of_obs	lat	lon
+Fangauta_Tonga	1	-21.019475	175.025391
+New_Caledonia	1	-22.061689	166.025249

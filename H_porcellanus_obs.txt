@@ -1,0 +1,9 @@
+spot	nb_of_obs	lat	lon
+Mindanao	100	7.396833	123.248806
+El Nido	5	11.112992	119.539242
+Palawan_group_of_islands	100	10.128972	119.363495
+Tubbataha_Reefs_Natural_Park 	20	8.853361	119.916165
+Sibutu	1	4.80212	119.459724
+Palau 	21	7.32372	134.534601
+Fangauta_Tonga	1	-21.019475	-175.025391
+New_Caledonia	1	-22.061689	166.025249
