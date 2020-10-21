@@ -1,7 +1,7 @@
 # Hyppopus_porcellanus_distribution
 Distribution map of the china giant clam Hippopus porcellanus
 
-###Occurance records can found here:
+### Occurance records can found here:
 - https://obis.org/taxon/382152
 - http://www.marinespecies.org/aphia.php?p=taxdetails&id=382152#distributions
 - Department of Environment, Government of Tonga (2018): Fanga'uta Lagoon Fisheries Species, Tonga. Department of Environment, Government of Tonga. Dataset/Occurrence. https://ipt.sprep.org/resource?r=fanga_uta_lagoon_fishspp
@@ -11,6 +11,6 @@ Distribution map of the china giant clam Hippopus porcellanus
 -	Rosewater, J. (1982). A new species of Hippopus (Bivalvia: Tridacnidae). The Nautilus. 96 (1): 3-6
 -	Villanoy, C.L., A.R. Juinio and L.M. Meñez.1988. Fishing mortality rates of giant clams (Family Tridacnidae) from Sulu Archipelago and Southern Palawan, Philippines. Coral Reefs,7:1–5.
 
-
+### Maps 
 ![alt tag](https://github.com/PLStenger/Hyppopus_porcellanus_distribution/blob/main/map.png)
 
